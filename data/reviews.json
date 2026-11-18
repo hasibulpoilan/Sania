@@ -1,0 +1,62 @@
+[
+  {
+    "personality": {
+      "honest": 4,
+      "patient": 9,
+      "confident": 9,
+      "shy": 9,
+      "caring": 9,
+      "understanding": 9,
+      "comfortable": 9,
+      "loyal": 9,
+      "romantic": 9,
+      "mature": 9
+    },
+    "memories": {
+      "enjoysMore": "Making you smile",
+      "valuesMost": "Honesty",
+      "improveOneThing": "Being more patient",
+      "startsConversations": "Both of us"
+    },
+    "personalRatings": {
+      "enjoyTalking": 4,
+      "comfortableBeingSelf": 4,
+      "conversationsSoFar": 10
+    },
+    "thoughts": {
+      "genuinelyLike": "",
+      "wantMeToKnow": ""
+    },
+    "submittedAt": "Tuesday, November 17, 2026 at 11:12:29 PM"
+  },
+  {
+    "personality": {
+      "honest": 4,
+      "patient": 9,
+      "confident": 9,
+      "loyal": 9,
+      "romantic": 9,
+      "shy": 9,
+      "caring": 9,
+      "understanding": 9,
+      "comfortable": 9,
+      "mature": 9
+    },
+    "memories": {
+      "startsConversations": "Both of us",
+      "enjoysMore": "Making you smile",
+      "valuesMost": "Honesty",
+      "improveOneThing": "Being more patient"
+    },
+    "personalRatings": {
+      "enjoyTalking": 4,
+      "comfortableBeingSelf": 4,
+      "conversationsSoFar": 10
+    },
+    "thoughts": {
+      "genuinelyLike": "",
+      "wantMeToKnow": ""
+    },
+    "submittedAt": "Tuesday, November 17, 2026 at 11:02:09 PM"
+  }
+]
